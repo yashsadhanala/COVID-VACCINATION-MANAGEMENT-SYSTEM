@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625981229 source:d:\college stuff\jupyter\preparation\covid vaccination management system\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<iomanip>
+	<time.h>
+
